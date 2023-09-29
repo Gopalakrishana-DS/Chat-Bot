@@ -1,3 +1,4 @@
+hi,	hi how can i help you
 hi, how are you doing?	i'm fine. how about yourself?
 i'm fine. how about yourself?	i'm pretty good. thanks for asking.
 i'm pretty good. thanks for asking.	no problem. so how have you been?
